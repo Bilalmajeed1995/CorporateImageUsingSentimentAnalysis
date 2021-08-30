@@ -1,0 +1,30 @@
+﻿Company,NewsKey,BlogKey,TweetKey,TrendsKey,PerformanceKey
+Apple,Apple,apple,#Apple,Apple,Apple
+Microsoft,Microsoft,microsoft,#Microsoft,Microsoft Corporation,Microsoft
+GameStop,GameStop,gamestop,#GameStop,GameStop,GameStop
+Mercedes,Mercedes-Benz,mercedes-benz,#MercedesBenz,Mercedes-Benz,Mercedes
+Tesla,Tesla,tesla,#Tesla,Tesla,Tesla
+Toyota,Toyota,toyota,#Toyota,Toyota,Toyota
+Nike,Nike,nike,#Nike,Nike,Nike
+Adidas,Adidas,adidas,#Adidas,Adidas,Adidas
+Walmart,Walmart,walmart,#Walmart,Walmart,Walmart
+Target,Target,target,#Target,Target Corporation,Target
+Home Depot,Home Depot,the-home-depot,#HomeDepot,The Home Depot,Home Depot
+Best Buy,Best Buy,best-buy,#BestBuy,Best Buy,Best Buy
+Costco,Costco,costco,#Costco,Costco,Costco
+Hyatt Hotels,Hyatt Hotels,hyatt,#Hyatt,Hyatt,Hyatt Hotels
+Marriott Hotels,Marriott,marriott-hotels-resorts,#Marriott,Marriott International,Marriott Hotels
+Verizon,Verizon,verizon,#Verizon,Verizon Communications,Verizon
+Rogers,Rogers Communications,rogers-communications,#RogersCommunications,Rogers Communications,Rogers
+AT&T,AT&T,att,#AT&T,AT&T,AT&T
+Citigroup,Citigroup,citigroup,#Citi,Citigroup,Citigroup
+JPMorgan Chase,JPMorgan Chase,jpmorgan-chase,#JPMorgan,JPMorgan Chase,JPMorgan Chase
+Wells Fargo,Wells Fargo Bank,wells-fargo,#WellsFargo,Wells Fargo,Wells Fargo
+McDonalds,McDonalds,mcdonalds,#McDonalds,McDonald's,McDonalds
+Cineplex,Cineplex,cineplex,#Cineplex,Cineplex Entertainment,Cineplex
+Starbucks,Starbucks,starbucks,#Starbucks,Starbucks,Starbucks
+Berkshire Hathaway,Berkshire Hathaway,berkshire-hathaway,#BerkshireHathaway,Berkshire Hathaway,Berkshire Hathaway
+Delta Airlines,Delta Airlines,delta-air-lines,#DeltaAirlines,Delta Air Lines,Delta Airlines
+Allstate Insurance,Allstate,allstate,#Allstate,State Farm,Allstate Insurance
+CVS Healthcare,CVS Healthcare,cvs-health,#CVSHealth,Allstate,CVS Healthcare
+State Farm Insurance,State Farm Insurance,state-farm,#StateFarm,CVS Health,State Farm Insurance
