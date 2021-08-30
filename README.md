@@ -5,14 +5,14 @@ The availability of ratings and reviews, and presence on social media and other 
 ## 1.2 Dataset
 Companies will be selected from different industries to generate a corporate sentiment dataset, i.e., all sources will be summarized to a single 0 – 1 sentiment score and then experiments will be performed. 
 Available Data:
-1-	Yelp Star Ratings
-2-	Yelp Reviews
+-	Yelp Star Ratings
+-	Yelp Reviews
 Extract Data:
-1-	Tweets (Company #)
-2-	Blog Reviews
-3-	News Articles
-4-	Google Search Trends (Proxy for Popularity)
-5-	Financial Performance Indicator
+-	Tweets (Company #)
+-	Blog Reviews
+-	News Articles
+-	Google Search Trends (Proxy for Popularity)
+-	Financial Performance Indicator
 ## 1.3 Research Questions
-1-	Which of the individual or combination of extracted sentiments have the strongest correlation with popularity or the financial performance indicators?
-2-	How much of the variability in the popularity and the financial performance indicators can be explained using the derived corporate sentiment?
+-	Which of the individual or combination of extracted sentiments have the strongest correlation with popularity or the financial performance indicators?
+-	How much of the variability in the popularity and the financial performance indicators can be explained using the derived corporate sentiment?
